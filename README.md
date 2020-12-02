@@ -1,7 +1,7 @@
 # <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="25" weight="25"> Hello github!
 
 
-I am suvasish, a 2nd year student of Computer Science, from Barrackpore Rastraguru Surendranath College, West Bengal. 
+I am suvasish, a 2nd year student of **Computer Science**, from **Barrackpore Rastraguru Surendranath College**, West Bengal. 
 
 I have interest in coding, discovering internet and technology. Also I have intermediate skill in C, C++, Linux (OS). Apart from that I like to participate various competitive coding and solving problems.
 
