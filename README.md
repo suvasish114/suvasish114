@@ -16,6 +16,12 @@ I have interest in coding, discovering internet and technology. Also I have inte
 <p align= "left">
 <img src="https://github-profile-trophy.vercel.app/?username=suvasish114&column=7&theme=light">
 </p>
+</br>
+
+<p align= "left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvasish114&layout=compact&theme=light" width="420">
+</br>
+</p>
 
 </br>
 
