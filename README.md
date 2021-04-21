@@ -1,6 +1,6 @@
 # <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="25" weight="25"> Hello github!
 
-
+<img style="float: right; width:15em; margin: 0px 0px 15px 15px;" src="./computer.gif" width="100">
 I am suvasish, a 2nd year student of **Computer Science**, from **Barrackpore Rastraguru Surendranath College**, West Bengal. 
 
 I have interest in coding, discovering internet and technology. Also I have intermediate skill in C, C++, Linux (OS). Apart from that I like to participate various competitive coding and solving problems.
