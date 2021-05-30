@@ -1,36 +1,28 @@
-# <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="25" weight="25"> Hello github!
+# <strong>Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Suvasish Das.</strong>
 
-<img style="float: right; width:15em; margin: 0px 0px 15px 15px;" src="./computer.gif" width="100">
-I am suvasish, a 2nd year student of **Computer Science**, from **Barrackpore Rastraguru Surendranath College**, West Bengal. 
+![Profile views](https://gpvc.arturio.dev/suvasish114)
 
-I have interest in coding, discovering internet and technology. Also I have intermediate skill in C, C++, Linux (OS). Apart from that I like to participate various competitive coding and solving problems.
+### <strong>Languages and Frameworks : </strong>
 
-### 🖥️ Languages :
-<img src="https://camo.githubusercontent.com/c32b4a3bd070f3239dd1d6ba6a791e231a1ce9f92a605b8942a93e42203840ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532302d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465"> <img src="https://camo.githubusercontent.com/0d3ae99a9dcced770f5a2e6d2395999c121d9975f3f1816ee3b3902a3c8e6a92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2532302d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266f676f436f6c6f723d7768697465"> <img src="https://camo.githubusercontent.com/a71f1a20d58a3506dd5f32dcb31461bd5102a0bd33dbf49db9195c589eaca8d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2532302d2532333134333534432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"> <img src="https://camo.githubusercontent.com/19f686ee7be9e84e002135a16411658939d431a3f6c7f513498ff2d1e511b5b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"> <img src="https://camo.githubusercontent.com/22d1116e541b7b380161ed7c77ceb24e5e88a71acbec6d9dae7a5624b23a46fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742532302d2532334630353033332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"> 
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://camo.githubusercontent.com/6aea43d076c7bf00489f1b347caa33fe5c4d84a8af2983804f8702632f2669ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622532302d2532333132313031312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465">
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![]()
+![]()
+![]()
+![]()
+![]()
 
-### ☎️ Contact :
-[<img src="https://camo.githubusercontent.com/8bb7c1de40aadb0d8eede2add7716932344b30235088d239831fe0e884de8f82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2532302d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465">](https://www.linkedin.com/in/suvasish-das-73862b1a0/)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Suvasis38993551)
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">]()
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/suvasish_2.0/)
+### <strong>Contact Me : </strong>
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Suvasis38993551)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([mailto](misuvasish114@gmail.com))
 
-</br>
-
-[<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">](https://suvasish114.blogspot.com/)
-
-<p align= "left">
-<img src="https://github-profile-trophy.vercel.app/?username=suvasish114&column=7&theme=light">
-</p>
-</br>
-
-<p align= "left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvasish114&layout=compact&theme=light" width="420">
-</br>
-</p>
-
-</br>
-
-[![Suvasish's github stats](https://github-readme-stats.vercel.app/api?username=suvasish114)](https://github.com/suvasish114/suvasish114)
+[![](https://github-readme-stats.vercel.app/api?username=ayushi7rawat&show_icons=true&theme=gotham)]()
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=suvasish114&layout=compact&theme=dark)]()
