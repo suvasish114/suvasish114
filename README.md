@@ -24,5 +24,5 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([mailto](misuvasish114@gmail.com))
 
-[![](https://github-readme-stats.vercel.app/api?username=ayushi7rawat&show_icons=true&theme=gotham)]()
+[![](https://github-readme-stats.vercel.app/api?username=suvasish114&show_icons=true&theme=gotham)]()
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=suvasish114&layout=compact&theme=dark)]()
