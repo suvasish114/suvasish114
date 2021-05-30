@@ -1,6 +1,7 @@
 # <strong>Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Suvasish Das.</strong>
 
 ![Profile views](https://gpvc.arturio.dev/suvasish114)
+[![](https://img.shields.io/website-up-down-blue-red/http/shields.io.svg)](https://suvasish114.github.io/)
 
 ### <strong>Languages and Frameworks : </strong>
 
