@@ -4,7 +4,7 @@
 ![Nationality](https://img.shields.io/badge/Nationality-Indian-gold)
 ![Location](https://img.shields.io/badge/Location-Kolkata%2C%20WestBengal-red)
 
-I'm a computer science grad student, doing my `M.Sc` from `West Bengal State University`. I am a highly motivated versatile person, bringing proficient knowledge of multiple programming languages and frameworks including `C/C++`, `Python`, `Tensorflow`, `Flask`, etc. I have a particular research interest in `Deep Learning`. I like designing & building products that positively impact the lives of users. I don't associate myself with specific tools and technology. This mindset has helped me be a quick learner and concentrate more on solving the problem at hand.
+I'm a computer science research scholar at IIT Bombay. I have a particular research interest in `Deep Learning`. I like designing & building products that positively impact the lives of users. I don't associate myself with specific tools and technology. This mindset has helped me be a quick learner and concentrate more on solving the problem at hand.
 
 Quick facts:
 
